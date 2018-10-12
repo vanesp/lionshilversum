@@ -35,4 +35,4 @@ Daarnaast wordt er in diverse kringen samen gesport of gereisd.
 We zijn altijd op zoek naar nieuwe leden die een band hebben met Hilversum en graag
 een steentje bijdragen aan de maatschappij.
 
-Schrijf je in voor onze <a href="http://eepurl.com/c68YUf" target="_blank">nieuwsbrief</a>. 
+Schrijf je in voor onze <a href="http://eepurl.com/c68YUf" target="_blank">nieuwsbrief</a>.

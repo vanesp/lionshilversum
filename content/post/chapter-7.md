@@ -2,14 +2,14 @@
 date: 2017-10-10T11:25:05-04:00
 description: "Activiteiten"
 featured_image: "/images/Bedrijfsbezoek.jpg"
-tags: ["Jaar"]
+tags: ["Goede doelen"]
 title: "Activiteiten en Fondsenwerving"
 ---
 ## Wijnactie
 
 Al vele jaren is de populaire wijnactie de belangrijkste fondsenwervingsactiviteit van onze club.
 
-De wijncommissie zoekt samen met onze wijnleverancier bijzondere wijnen uit die ideaal voor 
+De wijncommissie zoekt samen met onze wijnleverancier bijzondere wijnen uit die ideaal voor
 de feestdagen zijn. Onze leden organiseren een gezellige wijnproeverij/borrel en nodigen daar
 buurtgenoten, kennissen en vrienden voor uit.
 
@@ -57,7 +57,7 @@ Website van <a href="http://035kwis.nl" target="_blank">035 kwis</a>
 
 Het voetstappenpad is een 29km lange wandeling rondom Hilversum, door prachtige natuur.
 Dit pad is in 1938 aangelegd, maar de meeste Hilversummers kennen het niet. Lionsclub Hilversum
-besloot met een jaarlijkse wandeling voor het goede doel het pad te ontsluiten, mede door het 
+besloot met een jaarlijkse wandeling voor het goede doel het pad te ontsluiten, mede door het
 mogelijk te maken het pad in kleinere stukken te wandelen. 5 jaar lang hebben we dit georganiseerd,
 maar we kwamen er wel achter dat voornamelijk serieuze wandelaars aan dit evenement meedoen, vooral
 als het weer wat "wisselvallig" is. Er is dus besloten dit evenement over te dragen aan de Gooische

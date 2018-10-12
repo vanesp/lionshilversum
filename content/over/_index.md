@@ -28,7 +28,7 @@ locaties. De Smidse, De Nieuwe Zuwe en vervolgens ’s Graveland. Toen Anna’s 
 Castellum Novum. Castellum vatte vlam en de LCH week uit naar Brasserie de Hooge Vuursche.
 En nu na 25 jaar zijn we weer terug in "Het Wapen van Amsterdam" dat al weer een aantal jaar
 als "Restaurant Vlaar" door het leven gaat. Onze gasten zijn altijd weer verbluft door de
-prijs-kwaliteit van het eten dat we daar voorgeschoteld krijgen. 
+prijs-kwaliteit van het eten dat we daar voorgeschoteld krijgen.
 
 # We Serve
 
@@ -48,8 +48,8 @@ Daarop is het <a href="http://hetgrootgooisdictee.nl" target="_blank">Groot Gooi
 Ook dit zichtbare evenement, georganiseerd samen met Lionsclub 't Gooi en met als terugkerend goede doel
 het bestrijden van laaggeletterdheid.
 
-En in 2018 starten we met de <a href="http://035kwis.nl" target="_blank">035kwis</a>, een "ken uw stad" quiz
-voor teams van mensen met diverse kwaliteiten. Hiermee zullen we een lokaal goed doel steunen, en 
+En in 2019 starten we met de <a href="http://035kwis.nl" target="_blank">035kwis</a>, een "ken uw stad" quiz
+voor teams van mensen met diverse kwaliteiten. Hiermee zullen we een lokaal goed doel steunen, en
 verwachten we ook weer een vaste schare bezoekers op te bouwen.
 
 # Feesten en reizen
@@ -57,12 +57,11 @@ verwachten we ook weer een vaste schare bezoekers op te bouwen.
 Dat waren er vele. En er zullen nog vele volgen. Vrienden vieren graag feest met
 elkaar. Vandaar. Buitenlandse en binnenlandse tripjes en weekeinden. De LCH was in Praag,
 Parijs, Barcelona, Rome, Ootmarsum, Amelanden, en in de champagne streek in Reims. Daarna
-in Rome, Istanbul, Marseille. En we gaan nog veel meer op stap in de komende jaren!
+in Rome, Istanbul, Marseille. In 2018 zijn we met een grote delegatie in Dublin geweest.
+En we gaan nog veel meer op stap in de komende jaren!
 
 # Toekomst
 
-We zijn nog maar net begonnen. Wat is nu 35 jaar? De Lions Club Hilversum bruist
+We zijn nog maar net begonnen. Wat is nu 36 jaar? De Lions Club Hilversum bruist
 van energie. Nieuwe leden stromen binnen. De leeftijdsmix is prima: ervaring en jeugd zijn
 evenwichtig vertegenwoordigd. Dat de club de komende jaren zo gezond moge blijven!
-
-
