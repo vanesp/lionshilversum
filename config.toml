@@ -1,5 +1,5 @@
 title = "Lionsclub Hilversum"
-baseURL = "http://lionshilversum.nl"
+baseURL = "https://lionshilversum.nl"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 # themesDir = "../.."
@@ -17,7 +17,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "http://lionshilversum.nl/favicon.ico"
+  favicon = "https://lionshilversum.nl/favicon.ico"
   description = "We Serve"
   facebook = "https://www.facebook.com/lionshilversum/"
   twitter = ""

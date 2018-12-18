@@ -20,11 +20,11 @@ Alle werkzaamheden worden door onze Lionsmannen verricht. Door het grote volume 
 krijgen wij als club het inkoop voordeel, ook omdat de wijnleverancier niet het uitlever traject
 hoeft te doen. Zo ontvangen wij zo'n 25% van de verkoopprijs voor het goede doel.
 
-U kunt de <a href="http://lionshilversum.nl/wijnfolder_2017.pdf" target="_blank">folder hier</a> downloaden.
+Hier vindt u de <a href="/wijnproeven">huidige wijnactie</a>.
 
 ## Het Groot Goois Dictee
 
-Voor het derde achtereenvolgende jaar organiseren de Lions Clubs
+Voor het vierde achtereenvolgende jaar organiseerden de Lions Clubs
 Hilversum en Het Gooi in samenwerking met de Bibliotheek Hilversum en de
 gemeente Hilversum het _Groot Goois Dictee_.
 
@@ -43,7 +43,7 @@ ze aangewezen op een uitkering. Als een laaggeletterde ziek wordt duurt
 dat vaak nodeloos langer, doordat hij of zij de medicatievoorschriften
 niet kan lezen en/of begrijpen.
 
-Website van <a href="http://hetgrootgooisdictee.nl" target="_blank">Het Groot Goois Dictee</a>.
+Website van <a href="https://hetgrootgooisdictee.nl" target="_blank">Het Groot Goois Dictee</a>.
 
 ## 035 kwis
 
@@ -51,7 +51,7 @@ Een leuke, maar moeilijke quiz waarin uw kennis over Hilversum getest zal worden
 met jongeren, ouderen, puzzelaars en historici moeten samenwerken om de lastige
 opgaven op te lossen. Daarvoor krijgt u 35 uur de tijd! De quiz wordt door Lions leden verzonnen en gemaakt.
 
-Website van <a href="http://035kwis.nl" target="_blank">035 kwis</a>
+Website van <a href="https://035kwis.nl" target="_blank">035 kwis</a>
 
 ## Voetstappenpad
 
