@@ -1,6 +1,6 @@
 ---
 title: "Lionsclub Hilversum"
-featured_image: '/images/IMG_1141.jpg'
+featured_image: '/images/LionsEdukans.jpg'
 description: "We Serve"
 ---
 

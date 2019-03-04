@@ -1,7 +1,7 @@
 ---
 date: 2017-10-10T11:25:05-04:00
 description: "Activiteiten"
-featured_image: "/images/Bedrijfsbezoek.jpg"
+featured_image: "/images/Leergeld_cover.jpg"
 tags: ["Goede doelen"]
 title: "Activiteiten en Fondsenwerving"
 ---

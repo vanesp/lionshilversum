@@ -1,7 +1,7 @@
 ---
 title: "Historie"
 description: "Lionsclub Hilversum Historie"
-featured_image: '/images/IMG_1141.jpg'
+featured_image: '/images/GrootGooisDictee.jpg'
 ---
 
 # Oprichting

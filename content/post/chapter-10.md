@@ -1,7 +1,7 @@
 ---
 date: 2018-10-11T13:35:58-04:00
 description: "We Serve"
-featured_image: "/images/guiness.jpg"
+featured_image: "/images/Sailability2008.jpg"
 tags: ["Jaar"]
 title: "2018-2019: We Serve"
 ---

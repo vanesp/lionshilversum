@@ -1,7 +1,7 @@
 ---
 date: 2013-04-11T11:13:32-04:00
 description: "Geneeskunst of Geneeskunde?"
-featured_image: "/images/IMG_0340.jpg"
+featured_image: "/images/VP2015.jpg"
 tags: ["Jaar"]
 title: "2013-2014: Geneeskunst"
 ---
@@ -19,7 +19,7 @@ Dit jaar zullen nieuwe ontwikkelingen en vergezichten in de geneeskunde langskom
 ook aandacht voor de geneeskunst. Als apart onderwerp binnen de geneeskunst is euthanasie
 gekozen: een mogelijke manier van afsluiten van de begeleiding van de allerlaatste
 levensfase van een mens. Ook zal er aandacht zijn voor de geneeskracht van kunst, of de
-troost die er van uit gaat. 
+troost die er van uit gaat.
 
 De thema commissie heeft een aantal avonden al ingevuld. Sprekers uit de zorgondernemershoek,
 zorginnovatoren en sprekers die zorgen hebben over de care.
@@ -42,7 +42,7 @@ waarschijnlijk van de North Sea Lions anders van Lions international of Wilde Ga
 Daarom zullen de wijnproeverijen van dit en volgend jaar voor Nangoma bestemd zijn,
 waarbij wij het tweede jaar voorfinancieren.
 
-Het Voetstappenpad wordt gekoppeld aan een lokaal doel, op nadrukkelijk verzoek 
+Het Voetstappenpad wordt gekoppeld aan een lokaal doel, op nadrukkelijk verzoek
 van de VSP commissie en wel Stichting Leergeld. Stichting Leergeld is een landelijk
 initiatief dat lokaal uitgewerkt wordt, hier in Hilversum-Wijdemeren. Het doel is om
 kinderen te helpen uit gezinnen onder de armoedegrens met o.a. in natura donaties van
