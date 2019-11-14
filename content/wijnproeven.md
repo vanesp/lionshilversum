@@ -1,6 +1,6 @@
 ---
 title: Wijnproeven
-description: Voor het goede doel
+description: 
 featured_image: "/images/wijnevent2019.jpg"
 type: page
 menu:
