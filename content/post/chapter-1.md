@@ -3,11 +3,11 @@ date: 2011-04-09T10:58:08-04:00
 description: "Rome"
 featured_image: "/images/IMG_4105.jpg"
 tags: ["Jaar"]
-title: "2011-2012 Ciao Italia"
+title: "2011-2012: Ciao Italia"
 ---
 
 Het jaar 2011-2012 is voor de Lions Club Hilversum een jubileumjaar:
-30 jaar Lions Club Hilversum. Wij staan in een eerbiedwaardige traditie en dat willen we weten. 
+30 jaar Lions Club Hilversum. Wij staan in een eerbiedwaardige traditie en dat willen we weten.
 
 Met het thema _Ciao Italia_ wordt een appèl gedaan op een bepaald levensgevoel,
 een sprankelende vormgeving van de _vita activa_, het bruisende leven als een feest,

@@ -7,7 +7,7 @@ menu:
   main: {}
 ---
 
-# Help mensen met dementie
+# Help ons met "We Serve"
 
 Jaarlijks organiseert Lionsclub Hilversum een centrale wijnproeverij in
 <a href="http://www.restaurantvlaar.nl" target="_blank">Restaurant Vlaar</a>, Noordereinde 129, 1243 JL ’s-Graveland, en bij individuele leden.
@@ -20,10 +20,8 @@ doneert Lionsclub Hilversum 25% van de opbrengst aan het goede doel.
 * of direct bestellen bij <a href="https://www.joostwijn.nl/c-4178902/lions-club-hilversum-wijnactie-2019-2020/" target="_blank">Joost Wijn</a>. Gebruik de code “wijnactie” bij het betalen.
 * of direct bestellen bij <a href="https://www.ildivino-wijnwinkel.nl/c-5011658/lions-hilversum/" target="_blank">Il Divino</a>.
 
-## Doelen 2019 / 2020
-Dit jaar willen we aandacht vragen voor de ziekte van <a href="https://www.alzheimer-nederland.nl">Alzheimer</a>, de meest voorkomende vorm van dementie. Zo’n 70% van de mensen met dementie heeft Alzheimer. Alzheimer begint vaak sluipend met stoornissen in het geheugen. Naarmate de ziekte vordert, verliest de persoon met Alzheimer steeds meer vaardigheden en raakt uiteindelijk volledig afhankelijk van anderen.
-
-Met de opbrengst van elke verkochte doos wijn kunnen wij iemand met de ziekte van Alzheimer een leuke dag bezorgen, zoals een dagje uit of een andere activiteit. Daarbij werken we samen met het <a href="https://www.alzheimer-nederland.nl/regios/gooi-en-omstreken/alzheimer-cafe-hilversum" target="_blank">Alzheimercafé Hilversum</a>.
+## Doelen 2020 / 2021
+De Goede Doelen. Die hebben we dit jaar ook: <a href="https://embracetheocean.com">Stichting Embrace The Ocean (MBRC)</a> die steunt de strijd tegen de Plastic Soup. Daarnaast steunen we het <a href="https://www.vumc.nl/zorg/expertisecentra-en-specialismen/ms-centrum-amsterdam.htm">MS Centrum UMC</a> dat Multiple Sclerose onderzoekt en behandelt. De ziekte MS (multiple sclerose) wordt veroorzaakt door ontstekingen in de hersenen en het ruggenmerg en door afbraak van hersenweefsel. MS kan door het grillige verloop veel onzekerheid bij u oproepen. Als hét MS Centrum in Nederland bieden we behandeling en advies.
 
 Daarnaast steunen we dit jaar ook weer <a href="http://www.leergeldhw.nl" target="_blank">Stichting Leergeld Hilversum - Wijdemeren</a> die kinderen willen laten meedoen aan binnen- en buitenschoolse activiteiten.
 

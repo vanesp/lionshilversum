@@ -1,12 +1,10 @@
 ---
 title: "Lionsclub Hilversum"
-featured_image: '/images/tulpen.jpg'
+featured_image: "/images/pannenkoekenwagen.jpg"
 description: "We Serve"
 ---
 
 [//]: # "Hint... dit is commentaar... de regels hieronder zijn de oorspronkelijke tekst"
-
-<div style="text-align: right"><sub>Fotocredit: &copy;Tergooi</sub></div>
 
 Lionsclub Hilversum wil in deze bijzondere tijd de medewerkers in de zorg een hart onder de riem te steken. Met wat geld uit de “We Serve” pot heeft de club 1000 bossen tulpen bij een kweker, die daar ook blij mee was, gekocht.
 
@@ -19,6 +17,8 @@ De tulpen zijn “Corona-proof” afgeleverd bij de locaties van het Tergooi zie
 “Wat een mooi gebaar 💐dank jullie wel 😊”.
 
 Naast het Tergooi ziekenhuis zijn ook bloemen gebracht bij zorginstelling Amaris. Deze actie is niet onopgemerkt gebleven, en is opgepikt door de <a href="https://www.gooieneemlander.nl/cnt/dmf20200331_32519172/lionsclub-hilversum-schenkt-duizend-bossen-bloemen-aan-medewerkers-in-de-zorg" target="_blank">Gooi en Eemlander</a> en het <a href="https://m.noordhollandsdagblad.nl/cnt/dmf20200331_32519172/lionsclub-hilversum-schenkt-duizend-bossen-bloemen-aan-medewerkers-in-de-zorg" target="_blank">Noord Hollands Dagblad</a>.
+
+En we hebben met onze Pannenkoekenwagen Corona-Proof pannenkoeken gebakken en uitgedeeld bij locatie Amaris Zuiderheide.
 
 <span style="color:red">Lionsclub Hilversum wil iedere week onze helden in het zonnetje zetten. Wij zijn er mee begonnen! Help je ons mee om dit voort te zetten? Doneer ieder bedrag vanaf € 1,= op onze rekening Lions Club Hilversum We Serve NL22RABO0113858744 ovv "Bloemen". Dank je wel!</span>
 
