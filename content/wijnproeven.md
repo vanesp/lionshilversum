@@ -16,6 +16,8 @@ Dit jaar zal de focus liggen op ondersteuning van <a href="http://www.leergeldhw
 
 Van iedere fles wijn die u koopt doneert Lionsclub Hilversum 25% van de opbrengst aan het goede doel.
 
+<span style="color: red;">Als u vóór 10 november 2020 voor meer dan €150 wijn bestelt bij uw bekende Lionslid, dan doen wij als dank er een fijne fles bubbels bij. Gebruik daarvoor dit <a href="https://lionshilversum.nl/bestelformulier.xlsx">bestelformulier</a> en mail dat naar uw Lionsvriend.</span>
+
 * U kunt hier de wijnfolders van <a href="https://lionshilversum.nl/joostwijn2020.pdf" target="_blank">Joostwijn</a> en <a href="https://lionshilversum.nl/ildivino2020.pdf" target="_blank">Il Divino</a> downloaden en uw bestelling aan uw lions-lid doorgeven;
 * of direct bestellen bij <a href="https://www.joostwijn.nl/c-4178902/lions-club-hilversum-wijnactie-2020-2021/" target="_blank">Joost Wijn</a>. Gebruik de code “wijnactie” bij het betalen.
 * of direct bestellen bij <a href="https://www.ildivino-wijnwinkel.nl/c-5011658/lions-hilversum/" target="_blank">Il Divino</a>.
