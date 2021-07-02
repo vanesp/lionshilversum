@@ -2,6 +2,7 @@
 title: " "
 featured_image: "/images/Hilversum_RGB_1440.png"
 description: " "
+omit_header_text: true
 ---
 
 
