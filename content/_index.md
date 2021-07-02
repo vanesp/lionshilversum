@@ -1,11 +1,9 @@
 ---
-title: "Lionsclub Hilversum"
-featured_image: "/images/pannenkoekenwagen.jpg"
-description: "We Serve"
+title: " "
+featured_image: "/images/Hilversum_RGB_1440.png"
+description: " "
 ---
 
-<a href="https://035kwis.nl" target="_blank"><img src="/images/035kwis.png" style="float:left; padding:10px"></a><span style="display:block; padding:20px; text-align:left"><b>De 035-Kwis (de "Ken uw stad" quiz voor Hilversum) zal in 2021 op 20 en 21 maart, Corona proof, plaatsvinden. Klik op het logo voor meer informatie of om je in te schrijven!</b></span> 
-<br/>
 
 [//]: # "Hint... dit is commentaar... de regels hieronder zijn de oorspronkelijke tekst"
 
