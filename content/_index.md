@@ -18,14 +18,7 @@ omit_header_text: true
 
 [//]: # "Wat een mooi gebaar 💐dank jullie wel 😊."
 
-[//]: # "Naast het Tergooi ziekenhuis zijn ook bloemen gebracht bij zorginstelling Amaris. Deze actie is niet onopgemerkt gebleven, en is opgepikt door de <a href="https://www.gooieneemlander.nl/cnt/dmf20200331_32519172/lionsclub-hilversum-schenkt-duizend-bossen-bloemen-aan-medewerkers-in-de-zorg" target="_blank">Gooi en Eemlander</a> en het <a href="https://m.noordhollandsdagblad.nl/cnt/dmf20200331_32519172/lionsclub-hilversum-schenkt-duizend-bossen-bloemen-aan-medewerkers-in-de-zorg" target="_blank">Noord Hollands Dagblad</a>."
-
-[//]: # "En we hebben met onze Pannenkoekenwagen Corona-Proof pannenkoeken gebakken en uitgedeeld bij locatie Amaris Zuiderheide."
-
-[//]: # "<span style="color:red">Lionsclub Hilversum wil iedere week onze helden in het zonnetje zetten. Wij zijn er mee begonnen! Help je ons mee om dit voort te zetten? Doneer ieder bedrag vanaf € 1,= op onze rekening Lions Club Hilversum We Serve NL22RABO0113858744 ovv "Bloemen". Dank je wel!</span>"
-
-
-Lionsclub Hilversum is onderdeel van de internationale <a href="https://www2.lions.nl">Lions</a> organisatie.
+Lionsclub Hilversum is onderdeel van de internationale [Lions](https://lions.nl) organisatie.
 In Lionsclubs werken mensen uit de lokale gemeenschap op vriendschappelijke en vrijwillige basis samen om hulp
 te bieden daar waar dat nodig is. Primair voor de lokale gemeenschap, maar daarnaast samen met de overkoepelende
 organisatie Lionsclubs International ook vaak voor hulpverlening elders in de wereld.  
@@ -52,6 +45,7 @@ en de slotbijeenkomst
 Bovendien wordt er in diverse kringen samen gesport of gereisd.
 
 We zijn altijd op zoek naar nieuwe leden die een band hebben met Hilversum en graag
-een steentje bijdragen aan de maatschappij.
+een steentje bijdragen aan de maatschappij. Als je interesse hebt om meer te weten over lidmaatschap van onze club,
+stuur dan een mailtje aan de [secretaris](mailto:hilversum@lions.nl?subject=Lidmaatschap).
 
-Schrijf je in voor onze <a href="http://eepurl.com/c68YUf" target="_blank">nieuwsbrief</a>.
+Schrijf je in voor onze [nieuwsbrief](http://eepurl.com/c68YUf).
