@@ -2,6 +2,7 @@ title = "Lionsclub Hilversum"
 baseURL = "https://lionshilversum.nl"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
+# theme = "ananke"
 # themesDir = "../.."
 
 MetaDataFormat = "yaml"
