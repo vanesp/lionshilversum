@@ -1,14 +1,12 @@
 baseURL = "https://lionshilversum.nl"
 languageCode = "nl-nl"
-# theme = "gohugo-theme-ananke"
 theme = "ananke"
-# themesDir = "../.."
 resourceDir = "../resources"
 
 MetaDataFormat = "toml"
 DefaultContentLanguage = "nl"
 SectionPagesMenu = "main"
-pagination.pagerSize = 4 # this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 # googleAnalytics = "UA-33088611-4"
 googleAnalytics = "G-6CDYJ5MZ9M"
 
@@ -31,6 +29,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  social = true
   text_color = ""
   author = ""
   site_logo = "/images/LCI_emblem_white_web.png"
@@ -45,12 +44,21 @@ enableRobotsTXT = true
   env = "production"
 
 [[params.ananke_socials]]
+  name = "facebook"
+  url = "https://www.facebook.com/lionshilversum/"
+
+[[params.ananke_socials]]
   # name = "twitter"
   # url = "https://twitter.com/GoHugoIO"
-  # facebook = "https://www.facebook.com/lionshilversum/"
-  # twitter = ""
-  # instagram = "https://www.instagram.com/popjazzhilversum/"
-  # youtube = "https://www.youtube.com/@popjazzhilversum-nl"
+  name = "instagram"  
+  url = "https://www.instagram.com/popjazzhilversum/"
+  # name = "youtube"
+  # url = "https://www.youtube.com/@popjazzhilversum-nl"
   # github = ""
   # linkedin = ""
+
+[[params.ananke_socials]]
+  name = "youtube"
+  url = "https://www.youtube.com/@popjazzhilversum-nl"
+
 
