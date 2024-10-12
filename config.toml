@@ -1,18 +1,29 @@
-title = "Lionsclub Hilversum"
 baseURL = "https://lionshilversum.nl"
-languageCode = "en-us"
-theme = "gohugo-theme-ananke"
-# theme = "ananke"
+languageCode = "nl-nl"
+# theme = "gohugo-theme-ananke"
+theme = "ananke"
 # themesDir = "../.."
+resourceDir = "../resources"
 
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+MetaDataFormat = "toml"
+DefaultContentLanguage = "nl"
 SectionPagesMenu = "main"
-Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize = 4 # this is set low for demonstrating with dummy content. Set to a higher number
 # googleAnalytics = "UA-33088611-4"
 googleAnalytics = "G-6CDYJ5MZ9M"
 
 enableRobotsTXT = true
+
+[languages]
+  [languages.nl]
+    title = "Lionsclub Hilversum"
+    weight = 1
+    contentDir = "content/nl"
+    # languageDirection = 'rtl' for Right-To-Left languages
+#  [languages.fr]
+#    title = "Ananke Fr"
+#    weight = 2
+#    contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"
@@ -20,16 +31,26 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  text_color = ""
+  author = ""
+  site_logo = "/images/LCI_emblem_white_web.png"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
   favicon = "https://lionshilversum.nl/favicon.ico"
   description = "We Serve"
-  facebook = "https://www.facebook.com/lionshilversum/"
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = ""
-  linkedin = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
   # featured_image = "/images/IMG_2335.jpg"  # Wilde party outfit
   featured_image = "/images/LionsPannenkoeken.jpg"
   env = "production"
+
+[[params.ananke_socials]]
+  # name = "twitter"
+  # url = "https://twitter.com/GoHugoIO"
+  # facebook = "https://www.facebook.com/lionshilversum/"
+  # twitter = ""
+  # instagram = "https://www.instagram.com/popjazzhilversum/"
+  # youtube = "https://www.youtube.com/@popjazzhilversum-nl"
+  # github = ""
+  # linkedin = ""
+

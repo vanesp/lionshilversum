@@ -1,5 +1,5 @@
 ---
-title: Wijnactie 2023
+title: Wijnactie
 description:
 featured_image: "/images/wijnactie2023.jpg"
 type: page
