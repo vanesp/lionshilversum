@@ -34,13 +34,13 @@ We hebben een vergader- programma waarin we diepgang proberen te brengen door ee
 thema te behandelen en daarvoor (expert-) sprekers uit te nodigen. Daarnaast zijn er vele
 evenementen en feesten die inmiddels een traditie in ons clubjaar vormen:
 
-het kerstfeest  
-een nieuwjaarsactiviteit (wandeling, schaatsen, autorally)  
-walking dinner  
-Charter night  
-evenementen rondom onze Goede Doelen  
-fondsenwervingsactiviteiten  
-en de slotbijeenkomst  
+* het kerstfeest  
+* een nieuwjaarsactiviteit (wandeling, schaatsen, autorally)  
+* walking dinner  
+* Charter night  
+* evenementen rondom onze Goede Doelen  
+* fondsenwervingsactiviteiten  
+* en de slotbijeenkomst  
 
 Bovendien wordt er in diverse kringen samen gesport of gereisd.
 
