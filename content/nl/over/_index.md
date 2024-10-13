@@ -26,7 +26,7 @@ De maandagbijeenkomsten begonnen bij Wildschut, met peren, veel peren. En met Mi
 van den Hoek, onze eigen Koos. Koos en zijn vrouw volgden de club naar de diverse andere
 locaties. De Smidse, De Nieuwe Zuwe en vervolgens ’s Graveland. Toen Anna’s Hoeve ofwel
 Castellum Novum. Castellum vatte vlam en de LCH week uit naar Brasserie de Hooge Vuursche.
-En nu na 25 jaar zijn we weer terug in "Het Wapen van Amsterdam" dat al weer een aantal jaar
+En sinds 2007 zijn we weer terug in "Het Wapen van Amsterdam" dat al weer een aantal jaar
 als "Restaurant Vlaar" door het leven gaat. Onze gasten zijn altijd weer verbluft door de
 prijs-kwaliteit van het eten dat we daar voorgeschoteld krijgen.
 
@@ -37,20 +37,24 @@ Galafeesten die fors geld opleverden. Veilingen en wijnacties. En de doe-project
 Zelf de handen uit de mouwen steken.
 
 In 2010 zijn we begonnen met de organisatie van een jaarlijks terugkerend evenement rondom het
-<a href="http://www.voetstappenpad.nl" target="_blank">Voetstappenpad</a>, een geweldige
-wandeling van 25 kilometer over heide en door bossen rondom
+[Voetstappenpad](http://www.voetstappenpad.nl), een geweldige
+wandeling van 25+ kilometer over heide en door bossen rondom
 Hilversum. Dit historische pad is in 1938 aangelegd en loopt nog steeds de oorspronkelijke
 route. We hopen veel wandelaars te kunnen krijgen voor deze activiteit, die veel inzet en
-organisatie vereist van onze leden. Na 5 jaar van organisatie hebben we deze wandeling over
-gedragen aan de Gooische Atletiek Club (GAC).
+organisatie vereist van onze leden. Na 5 jaar van organisatie hebben we in 2015 deze wandeling over
+gedragen aan de Gooische Atletiek Club (GAC) die er nog ieder jaar een geweldig evenement van maakt.
 
-Daarop is het <a href="http://hetgrootgooisdictee.nl" target="_blank">Groot Goois Dictee</a> gestart, in 2015.
+Daarop is het [Groot Goois Dictee](http://hetgrootgooisdictee.nl) gestart, in 2015.
 Ook dit zichtbare evenement, georganiseerd samen met Lionsclub 't Gooi en met als terugkerend goede doel
 het bestrijden van laaggeletterdheid.
 
-En in 2019 starten we met de <a href="http://035kwis.nl" target="_blank">035kwis</a>, een "ken uw stad" quiz
+En in 2019 startten we met de [035kwis](http://035kwis.nl), een "ken uw stad" quiz
 voor teams van mensen met diverse kwaliteiten. Hiermee zullen we een lokaal goed doel steunen, en
-verwachten we ook weer een vaste schare bezoekers op te bouwen.
+verwachtten we ook weer een vaste schare bezoekers op te bouwen. Maar na drie edities moesten we in 2023 concluderen 
+dat de deelnemende teams de kwis erg waardeerden en uitdagend vonden, het ons niet is gelukt een groter publiek (lees: meer teams) te enthousiasmeren. We zijn met deze activiteit gestopt.
+
+Voor onze andere activiteiten, bezoek de [Voorpagina](/)
+
 
 # Feesten en reizen
 

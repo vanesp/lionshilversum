@@ -1,14 +1,12 @@
 ---
-date: 2024-10-07T11:35:58-04:00
-description: "Pop Jazz"
-featured_image: '/images/popjazz.jpg'
+date: 2022-10-07T11:35:58-04:00
+description: "Het Groot Gooisch Dictee"
+featured_image: '/images/GrootGooisDictee.jpg'
 tags: ["Activiteiten"]
-title: "Pop Jazz Hilversum"
+title: "Groot Gooisch Dictee"
 ---
-Het Pop & Jazz Hilversum Festival wordt sinds 2023 georganiseerd door de Stichting Pop & Jazz Hilversum, een initiatief van de Lions Club Hilversum.
-Hilversum is niet alleen Mediastad maar ook Muziekstad. Toch was er geen muziekfestival voor een breed publiek. Dit was de aanleiding voor een groep enthousiaste vrijwilligers om een bijzonder festival te organiseren in de iconische locatie Gooiland. 
+Al sinds 2017 organiseren [Lionsclub Hilversum]() en [Lionsclub het Gooi](https://hetgooi.lions.nl) het Groot Goois Dictee. Dit jaarlijks terugkerend dictee in de geweldig mooie Raadzaal van Hilversum kent naast de Nederlandse top aan dictee schrijvers inmiddels ook scholieren van de middelbare scholen in Hilversum (Comenius College en het Gemeentelijk Gymnasium) die zich afvragen hoe je in hemelsnaam *Deux chevaux* spelt en wat het is? En daar tussen is een ware competitie ontstaan. Het Groot Goois Dictee wordt ieder jaar live op [Noord Holland Nieuws](https://www.nhnieuws.nl) uitgezonden.
 
-Een festival met een hele speciale sfeer én dat verbindt. Een diversiteit aan bezoekers, gevestigde artiesten en jong talent. Met vele muziekvormen voor ieder wat wils: pop, soul, jazz, blues, funk, latin. Een viering van muziek, gemeenschap en cultuur die Hilversum op de kaart zet. In een samenwerking met o.a. het Prinses Christina Concours, Conservatorium Amsterdam, inJazz Radio (Co de Kloet).
+Met sponsoren en gulle deelnemers steunen we Bibliotheek Hilversum met geld om laaggeletterdheid te bestrijden.
 
-Voor detail informatie, tickets verwijzen we u naar onze uitgebreide [website](https://popjazzhilversum.nl). 
-
+Voor informatie over de laatste en volgende editie van het [Groot Gooisch Dictee](https://hetgrootgooisdictee.nl) bezoek onze website.
