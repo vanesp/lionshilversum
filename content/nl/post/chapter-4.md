@@ -28,7 +28,7 @@ passeren: economische onderwerpen over waarden van pensioenen, “normen en waar
 bankiers/verzekeraars, emotioneel/psychologische effecten van marketing, waarden van
 verzamelaars en waarden-ethiek. Genoeg stof voor interessante avonden!
 
-# Goede doelen
+## Goede doelen
 
 De goede doelen dit jaar zijn Nangoma Mission Hospital in Zambia, en Stichting Leergeld.
  

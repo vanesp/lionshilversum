@@ -21,9 +21,9 @@ Mocht je niet in de gelegenheid zijn om te komen proeven, dan kun je natuurlijk 
 
 En nog een tip: koop de wijnen nu, want per 1 januari wordt de accijns verhoogd!
 
-Wilt u s.v.p. uiterlijk 4 december 2023 uw bestelling doorgeven. Gebruik daarvoor dit [bestelformulier](https://lionshilversum.nl/bestelformulier.xlsx) en mail dat naar uw Lionsvriend.
+Wilt u s.v.p. uiterlijk 4 december 2023 uw bestelling doorgeven. Gebruik daarvoor dit [bestelformulier](/bestelformulier.xlsx) en mail dat naar uw Lionsvriend.
 
-U kunt hier de wijnfolder van [Lionsclub Hilversum](https://lionshilversum.nl/wijnactie2023.pdf) downloaden en uw bestelling aan uw lions-lid doorgeven.
+U kunt hier de wijnfolder van [Lionsclub Hilversum](/wijnactie2023.pdf) downloaden en uw bestelling aan uw lions-lid doorgeven.
 
 Daarnaast kunt u natuurlijk ook een donatie doen om zo deze belangrijke doelen te steunen. Onze WeServe rekening NL22 RABO 0113 8587 44 staat hiervoor open.
 

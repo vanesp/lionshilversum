@@ -2,10 +2,9 @@
 date: 2021-01-07T11:35:58-04:00
 description: "Pannenkoekenwagen"
 featured_image: '/images/pannenkoeken.jpg'
-tags: ["Goede doelen"]
+tags: ["Activiteiten"]
 title: "Lions Pannenkoekenwagen"
 ---
-## Lions Pannenkoekenwagen
 
 We hebben als Lionsclub een nieuwe, ludieke manier gevonden om ons motto “We Serve” gestalte te geven met de aanschaf van een heuse Pannenkoekwagen.
 Deze mobiele keuken zetten we in om zowel fondsen te werven voor onze goede doelen, als ook om mensen in onze doelgroep te steunen. Zo hebben we recent bij verscheidene zorginstellingen een pannenkoek-lunch verzorgd voor dementere ouderen, en ook middels een zgn. “drive-through” versgebakken pannenkoeken verkocht en daarmee geld ingezameld voor de lokale Voedselbank.

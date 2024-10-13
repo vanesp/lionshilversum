@@ -2,7 +2,7 @@
 date: 2017-10-10T11:25:05-04:00
 description: "Activiteiten"
 featured_image: "/images/Leergeld_cover.jpg"
-tags: ["Goede doelen"]
+tags: ["Activiteiten"]
 title: "Activiteiten en Fondsenwerving"
 ---
 ## Wijnactie
@@ -20,7 +20,7 @@ Alle werkzaamheden worden door onze Lionsmannen verricht. Door het grote volume 
 krijgen wij als club het inkoop voordeel, ook omdat de wijnleverancier niet het uitlever traject
 hoeft te doen. Zo ontvangen wij zo'n 25% van de verkoopprijs voor het goede doel.
 
-Hier vindt u de <a href="/wijnproeven">huidige wijnactie</a>.
+Hier vindt u de [huidige wijnactie](/wijnproeven).
 
 ## Het Groot Goois Dictee
 
@@ -43,7 +43,7 @@ ze aangewezen op een uitkering. Als een laaggeletterde ziek wordt duurt
 dat vaak nodeloos langer, doordat hij of zij de medicatievoorschriften
 niet kan lezen en/of begrijpen.
 
-Website van <a href="https://hetgrootgooisdictee.nl" target="_blank">Het Groot Goois Dictee</a>.
+Website van [Het Groot Goois Dictee](https://hetgrootgooisdictee.nl).
 
 ## 035 kwis
 
@@ -51,7 +51,7 @@ Een leuke, maar moeilijke quiz waarin uw kennis over Hilversum getest zal worden
 met jongeren, ouderen, puzzelaars en historici moeten samenwerken om de lastige
 opgaven op te lossen. Daarvoor krijgt u 35 uur de tijd! De quiz wordt door Lions leden verzonnen en gemaakt.
 
-Website van <a href="https://035kwis.nl" target="_blank">035 kwis</a>
+Website van [035 kwis](https://035kwis.nl).
 
 ## Voetstappenpad
 
@@ -63,4 +63,4 @@ maar we kwamen er wel achter dat voornamelijk serieuze wandelaars aan dit evenem
 als het weer wat "wisselvallig" is. Er is dus besloten dit evenement over te dragen aan de Gooische
 Atletiek Club en het Goois Natuur Reservaat.
 
-Website van <a href="http://voetstappenpad.nl" target="_blank">Het Voetstappenpad</a>.
+Website van [Het Voetstappenpad](http://voetstappenpad.nl).
