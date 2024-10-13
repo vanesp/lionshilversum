@@ -40,7 +40,7 @@ evenementen en feesten die inmiddels een traditie in ons clubjaar vormen:
 * Fondsenwervingsactiviteiten  
 
 Qua [activiteiten](post) zijn we ook een bezige club. Als nieuw lid wordt je snel aan het werk gezet:
-* [Pop & Jazz Hilversum](post/chapter-15) waarmee we Hilversummers verbinden door ze een geweldige avond bezorgen
+* [Pop & Jazz Hilversum](post/chapter-16) waarmee we Hilversummers verbinden door ze een geweldige avond bezorgen
 * onze [Pannenkoekenwagen](post/chapter-13) die we inzetten bij scholen, vrijwilligers en zorgcentra die een leuke dag verdienen
 * het [Groot Gooisch Dictee](post/chapter-15) waar we al jaren laaggeletterdheid in Hilverum mee bestrijden
 * de tassenactie, sinds 2022 waarbij Lionsleden voor personen en huishoudens die moeite hebben om rond te komen, in de feestdagen een booschappentas vullen met nuttige goederen en een klein cadeautje. Dit wordt georganiseer in samenwerking met het Leger des Heils Hilverum.
