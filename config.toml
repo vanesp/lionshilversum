@@ -34,7 +34,8 @@ enableRobotsTXT = true
   author = ""
   site_logo = "/images/LCI_emblem_white_web.png"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-black-20"
+  cover_dimming_class = "bg-black-10"
   recent_posts_number = 3
 
   favicon = "https://lionshilversum.nl/favicon.ico"

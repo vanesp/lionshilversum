@@ -1,7 +1,7 @@
 ---
 title: Wijnactie
 description:
-featured_image: "/images/wijnactie2023.jpg"
+featured_image: "/images/wijnactie2020-2.jpg"
 type: page
 menu:
   main: {}
